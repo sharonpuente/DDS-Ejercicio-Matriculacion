@@ -3,7 +3,7 @@ Ejercicio: Formulario de Matriculación de Estudiantes
 
 Instrucciones:
 ==============
-Crea un formulario de registro de estudiantes para una clase utilizando los elementos proporcionados. Completa el formulario con la información solicitada y envíalo haciendo uso del método GET.
+Crea un formulario de registro de estudiantes en la página index.html para una clase utilizando los elementos proporcionados. Completa el formulario con la información solicitada y envíalo haciendo uso del método GET.
 
 Elementos Requeridos:
 =====================
